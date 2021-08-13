@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Team-Sakti/midtrans-node/issues"
   },
-  "homepage": "https://github.com/Team-Sakti/midtrans-node#readme"
+  "homepage": "https://github.com/Team-Sakti/midtrans-node#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
