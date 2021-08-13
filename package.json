@@ -1,6 +1,6 @@
 {
   "name": "midtrans-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Payment Gateway Midtrans based on NodeJS",
   "main": "index.js",
   "scripts": {
